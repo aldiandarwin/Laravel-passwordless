@@ -6,6 +6,8 @@ Passwordless Authentication is a secure authentication method that eliminates th
 
 This approach leverages email to send a token, which users use for authentication, making it more secure than traditional password-based methods. Additionally, this method enhances user experience by eliminating the need to remember passwords.
 
+![paswordles2.png](https://github.com/aldiandarwin/Laravel-passwordless/assets/70283015/03297ad9-a1a8-47e6-943b-ecdba356bfa0)
+
 ## Tech Stack
 
 Laravel 10
